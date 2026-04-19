@@ -330,7 +330,7 @@ If you use this project in your research, please cite:
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: leninqwerty03@gmail.com
 - Documentation: See individual script comments
 
 
