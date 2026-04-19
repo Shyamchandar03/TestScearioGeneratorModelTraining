@@ -318,10 +318,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this project in your research, please cite:
 
 ```bibtex
-@software{test_scenario_generator_2024,
-  author = {Your Name},
+@software{test_scenario_generator_2026,
+  author = Shyamchandar,
   title = {Test Scenario Generator: AI-Powered Test Case Generation},
-  year = {2024},
+  year = 2026,
   url = {https://github.com/yourusername/test-scenario-generator}
 }
 ```
